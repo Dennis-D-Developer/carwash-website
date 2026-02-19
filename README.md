@@ -1,34 +1,32 @@
-# Car4Junk – Personal Frontend Project
-
-Car4Junk is a personal frontend project I built to practice and improve my web development skills. The goal was to design and develop a modern, responsive website for a car wash brand using HTML, CSS, and JavaScript.
-
-This project allowed me to apply what I’ve been learning by creating a real-world style business website from scratch, focusing on layout, responsiveness, structure, and clean design.
+# Car4Junk – Frontend Project
+Car4Junk is a responsive multi-page frontend website built to simulate a modern car wash business. This project was developed to practice and strengthen my web development skills using HTML, CSS and JavaScript.
+The goal was to design and structure a real-worldnstyle business website from scratch, focusing on clean layout, responsiveness, usability, and organized code structure.
 
 ## Live Website
-
 Netlify: https://car4junk-cars.netlify.app/
 GitHub Pages: https://dennis-d-developer.github.io/carwash-website/
 
 ## Source Code
-
 GitHub Repository: https://github.com/Dennis-D-Developer/carwash-website
 
 ## About the Project
-
-Car4Junk is a multi-page frontend website that represents a car wash business. It includes key pages such as the homepage, about, services, blog, booking, and contact page.
-
-I built this project independently to strengthen my frontend development skills and gain hands-on experience structuring and organizing a complete website project.
+Car4Junk is a multi-page website representing a car wash brand. It includes key sections such as:
+- Home
+- About
+- Services
+- Blog
+- Contact
+- Booking.
+This project was built independently to improve my frontend development skills and gain hands-on-experience creating a complete, structured website.
 
 ## What I worked on
-
-- Building a fully responsive layout for different screen sizes
-- Creating and linking multiple pages
+- Fully responsive design (mobile, tablet, desktop)
+- Multi-page navigation structure
 - Writing clean HTML, CSS, and JavaScript
 - Organizing files using a proper folder structure
-- Designing a consistent and user-friendly interface
+- Designing a consistent and user-friendly interface across pages
 
 ## Technologies Used
-
 - HTML5
 - CSS3
 - JavaScript
@@ -36,7 +34,6 @@ I built this project independently to strengthen my frontend development skills 
 - Git and GitHub
 
 ## Project Structure
-
 carwash-website/
 │
 ├── index.html
@@ -53,21 +50,14 @@ carwash-website/
 
 
 ## What I Learned
-
 This project helped me improve my understanding of:
-
-- Responsive web design
-- Website structure and organization
+- Responsive web design using media queries
+- Structuring and organizing multi-page websites
 - Frontend development workflow
 - Using Git and GitHub to manage and publish projects
 - Turning an idea into a complete working website
 
-## Future Plans
-
-In the future, I plan to expand this project by adding backend functionality, a working booking system, and database integration.
-
 ## Author
-
 Dennis Uka  
 Frontend Developer  
 
