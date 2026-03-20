@@ -1,6 +1,6 @@
 # Car4Junk – Frontend Project
 Car4Junk is a responsive multi-page frontend website built to simulate a modern car wash business. This project was developed to practice and strengthen my web development skills using HTML, CSS and JavaScript.
-The goal was to design and structure a real-worldnstyle business website from scratch, focusing on clean layout, responsiveness, usability, and organized code structure.
+The goal was to design and structure a real-world style business website from scratch, focusing on clean layout, responsiveness, usability, and organized code structure.
 
 ## Live Website
 Netlify: https://car4junk-cars.netlify.app/
